@@ -11,7 +11,6 @@ external_link: ''
 image:
   caption: The transfer result showing
   focal_point: Smart
-
 url_code: ''
 url_pdf: ''
 url_slides: ''
