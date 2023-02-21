@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
+  theme_day: Rose
+  theme_night: Rose
+  font: Rose
   font_size: L
 
 # SEO
@@ -17,9 +17,9 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    org_name: 'Xidian Undergraduates'
+    description: 'A website with academic information about  Chengxing Xie'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -64,11 +64,11 @@ features:
     theme_light: github-light
     theme_dark: dracula
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/yitianlian/<repository>'
     content_dir: content
     branch: main
   avatar:
