@@ -54,14 +54,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Researcher in Weisheng Dong
-          company: Xidian University
-          company_url: 'https://scholar.google.com/citations?user=-g58LsoAAAAJ&hl=zh-CN'
+        - title: Researcher in Photoelectric Imaging and Brain-like Perception Lab(Adivsor Weisheng Dong)
+          company: Photoelectric Imaging and Brain-like Perception Lab
+          company_url: 'https://see.xidian.edu.cn/faculty/wsdong/'
           company_logo: xidian
           location: Xian China
           date_start: '2022-11-01'
           date_end: ''
-          description: Lower-Level and Multimodeling Researcher
+          description: Lower-Level vision and Multimodeling Researcher
         - title: Algorithm Intern
           company: Sensetime
           company_url: 'https://www.sensetime.com/en'

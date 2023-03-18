@@ -74,5 +74,5 @@ email: 'xiechengxing34@gmail.com'
 highlight_name: true
 ---
 
-I am a undergraduate student in Computer Science and Technology at Xidian Universtiy I had an internship at Shang Tang for nine months in my first year in school and currently do research in a group in the university. My research interests lie in multimodal learning, AIGC.
+I am an undergraduate student in Computer Science and Technology at Xidian University I had an internship in Sensetime for nine months in my first year in school and currently do research in Photoelectric Imaging and Brain-like Perception Lab (Advisor: Weisheng Dong) at Xidian university. My research interests lie in multimodal learning, Few shot Learning, and AIGC.
 {style="text-align: justify;"}
