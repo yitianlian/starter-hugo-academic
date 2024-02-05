@@ -2,6 +2,9 @@
 title: "TFRGAN Leveraging Text Information for Blind Face Restoration with Extreme Degradation"
 authors:
 - admin
+- Qian Ning
+- Weisheng Dong
+- Guangming Shi
 date: "2023-03-11T00:00:00Z"
 doi: ""
 
@@ -12,13 +15,24 @@ publishDate: "2023-03-11T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 # publication: ""
 # publication_short: ""
 
-abstract: ""
+abstract: "Blind face restoration aims to recover high-quality face
+images from unknown degraded low-quality images. Previous
+works that are based on geometric or generative priors
+have achieved impressive performance, but the task remains
+challenging, particularly when it comes to restoring
+severely degraded faces. To address this issue, we propose
+a novel approach TFRGAN, that leverages textual information
+to improve the restoration of extremely degraded face
+images. Specifically, we propose to generate a better and
+more accurate latent code for StyleGAN2 prior via fusing
+the text and image information in the latent code space. Besides,
+extracted textual features are used to modulate the decoding features to obtain more realistic and natural facial images with more reasonable details. Experimental results demonstrate the superiority of the proposed method for restoring severely degraded face images."
 
 # Summary. An optional shortened abstract.
 
@@ -27,13 +41,13 @@ tags:
 featured: false
 
 links:
-#- name: Custom Link
-#  url: #
-#url_pdf: #
+# - name: Custom Link
+# url: 'https://llm-agent-trust-behavior.github.io/'
+url_pdf: https://openaccess.thecvf.com/content/CVPR2023W/MULA/papers/Xie_TFRGAN_Leveraging_Text_Information_for_Blind_Face_Restoration_With_Extreme_CVPRW_2023_paper.pdf
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
-#url_project: '#'
+# url_project: 'https://llm-agent-trust-behavior.github.io/'
 #url_slides: '#'
 #url_source: '#'
 #url_video: '#'
@@ -61,8 +75,8 @@ projects:
 # slides: example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+{{% /callout %}} -->
 
-At present, the paper has not yet been published, and relevant materials will not be displayed.
+<!-- At present, the paper has not yet been published, and relevant materials will not be displayed. -->

@@ -20,14 +20,16 @@ role: Artificial Intelligence Student
 organizations:
   - name: Xidian University
     url: https://en.xidian.edu.cn/
+  - name: Camel.ai
+    url: https://www.camel-ai.org/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Multi-Modeling, Low-Level Vision.
+bio: My research interests include LLM Agents, Multi-Modeling (VLMs, Diffusion).
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computer Vision
+  - LLM Agents
   - Multi-Modeling
 
 # Education to show in About widget
@@ -42,9 +44,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-#  - icon: envelope
-#    icon_pack: fas
-#    link: '/#contact'
+  - icon: envelope
+    icon_pack: fas
+    link: xiechengxing34@gmail.com
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
@@ -57,15 +59,21 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/yitianlian
-  #- icon: linkedin
-  #  icon_pack: fab
-  #  link: https://www.linkedin.com/
+  # - icon: linkedin
+  #   icon_pack: fab
+  #   link: https://www.linkedin.com/
+  - icon: weixin
+    icon_pack: fab
+    link: uploads/wx.png
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/CV.pdf
+  - icon: file
+    icon_pack: far
+    link: uploads/transcript.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'xiechengxing34@gmail.com'
@@ -74,5 +82,5 @@ email: 'xiechengxing34@gmail.com'
 highlight_name: true
 ---
 
-I am an undergraduate student in Computer Science and Technology at Xidian University I had an internship in Sensetime for nine months in my first year in school and currently do research in Photoelectric Imaging and Brain-like Perception Lab (Advisor: Weisheng Dong) at Xidian university. My research interests lie in multimodal learning, Few shot Learning, and AIGC.
+I am currently pursuing my undergraduate degree in Computer Science at Xidian University. I began with a nine-month internship at Sensetime during my first year, serving as an algorithm intern. In my second year, I focus on face restoration, culminating in the publication of related papers at CVPRW. Currently, I delved into the area of **LLM Agents**. This interest led me to an enriching experience as a visiting student at KAUST from July.2023 to Jan.2024, where I further honed my skills and knowledge in **LLM Agents**. Looking ahead, I am committed to continuing my exploration of LLMs and plan to pursue a **PhD**. For further information or collaboration opportunities, feel free to reach out to me at xiechengxing34@gmail.com.
 {style="text-align: justify;"}
