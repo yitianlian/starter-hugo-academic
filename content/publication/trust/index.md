@@ -5,29 +5,34 @@ authors:
 - Canyu Chen
 - Feiran Jia
 - Ziyu Ye
+- Shiyang Lai
 - Kai Shu
+- Jindong Gu
 - Adel Bibi
 - Ziniu Hu
-- Philip Torr
+- David Jurgens
+- James Evans
+- Philip H.S. Torr
 - Bernard Ghanem
 - Guohao Li
-date: "2024-03-11T00:00:00Z"
+date: "2024-10-05T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-03-11T00:00:00Z"
+publishDate: "2024-10-05T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-# publication: "Submitted to ICML2024"
-# publication_short: ""
+publication: "<span style='color:red;'>Accepted at NeurIPS 2024</span>"
+publication_short: "<span style='color:red;'>Accepted at NeurIPS 2024</span>"
 
-abstract: Large Language Model (LLM) agents have been increasingly adopted as simulation tools to model humans in applications such as social science. However, one fundamental question remains can LLM agents really simulate human behaviors? In this paper, we focus on one of the most critical behaviors in human interactions, trust, and aim to investigate whether or not LLM agents can simulate human trust behaviors. We first find that LLM agents generally exhibit trust behaviors, referred to as agent trust, under the framework of Trust Games, which are widely recognized in behavioral economics. Then, we discover that LLM agents can have high behavioral alignment with humans regarding trust behaviors, indicating the feasibility to simulate human trust behaviors with LLM agents. In addition, we probe into the biases in agent trust and the differences in agent trust towards agents and humans. We also explore the intrinsic properties of agent trust under conditions including advanced reasoning strategies and external manipulations. We further offer important implications for various scenarios where trust is paramount. Our study represents a significant step in understanding the behaviors of LLM agents and the LLM-human analogy. The code is here.
+
+abstract: "Large Language Model (LLM) agents have been increasingly adopted as simulation tools to model humans in social science and role-playing applications. However, one fundamental question remains: can LLM agents reliably simulate human behavior? In this paper, we focus on a key aspect of human interaction: trust, and aim to investigate whether LLM agents can effectively simulate human trust behaviors. We first find that LLM agents generally exhibit trust behaviors, which we refer to as agent trust, under the framework of Trust Games, a widely recognized tool in behavioral economics. Additionally, we discover that GPT-4 agents demonstrate high behavioral alignment with humans in terms of trust behaviors, suggesting the feasibility of simulating human trust behaviors with LLM agents. Moreover, we investigate the biases in agent trust and the differences in trust directed towards other LLM agents versus humans. We also examine the intrinsic properties of agent trust under conditions such as advanced reasoning strategies and external manipulations. Our study provides new insights into the behaviors of LLM agents and highlights the fundamental analogy between LLMs and humans beyond value alignment. We further discuss the broad implications of our findings for various applications where trust plays a critical role."
 
 # Summary. An optional shortened abstract.
 

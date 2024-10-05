@@ -28,8 +28,8 @@ bio: My research interests include LLM Agents, Multi-Modeling (VLMs, Diffusion).
 
 # Interests to show in About widget
 interests:
-  - LLM Agents
-  - Multi-Modeling
+  - LLM Reasoning
+  - Real-World Task Solving by LLM
   - Generative Model
 
 # Education to show in About widget
@@ -90,12 +90,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: xiechengxing34@gmail.com
-#  - icon: twitter
-#    icon_pack: fab
-#    link: https://twitter.com/GeorgeCushen
-#    label: Follow me on Twitter
-#    display:
-#      header: true
+  - icon: twitter
+    icon_pack: fab
+    link: https://x.com/Chengxing_Xie
+    label: Follow me on Twitter
+    display:
+      header: true
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=emzHNrIAAAAJ&
 #  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
 #    icon_pack: fas
  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -124,6 +127,11 @@ email: 'xiechengxing34@gmail.com'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+I am a fourth-year Computer Science student at Xidian University, with visiting research experiences at HKU and KAUST. Currently, I am interning at Shanghai AI Lab, focusing on improving open-source LLMs for real-world tasks.
 
-I am currently pursuing my undergraduate degree in Computer Science at Xidian University. I began with a nine-month internship at Sensetime during my first year, serving as an algorithm intern. In my second year, I focus on face restoration, culminating in the publication of related papers at CVPRW. Currently, I delved into the area of **LLM Agents**. This interest led me to an enriching experience as a visiting student at KAUST from July.2023 to Jan.2024, where I further honed my skills and knowledge in **LLM Agents**. Looking ahead, I am committed to continuing my exploration of LLMs and plan to pursue a **PhD**. For further information or collaboration opportunities, feel free to reach out to me at xiechengxing34@gmail.com.
+My research interests lie in **LLM reasoning** and **real-world task solving** using LLMs. I am particularly fascinated by how LLMs can be enhanced to perform complex reasoning and planning in practical applications. I believe there is great potential in refining LLMs to bridge the gap between language models and consistent decision-making, and I aim to explore this further in my future research.
+
+For further information or collaboration opportunities, feel free to reach out to me at xiechengxing34@gmail.com.
 {style="text-align: justify;"}
+
+

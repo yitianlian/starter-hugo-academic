@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
-date: 2022-10-24
+date: 2024-10-05
 type: landing
 
 sections:
@@ -76,6 +76,22 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Research Intern at Shanghai AI Lab
+          company: Shanghai AI Lab
+          company_url: 'https://www.shlab.org.cn/'
+          company_logo: pjlab_logo
+          location: Shanghai, China
+          date_start: '2024-07-01'
+          date_end: 
+          description: Focused on enhancing the performance of open-source LLMs in real-world code-related tasks.
+        - title: Research Assistant at HKU
+          company: The University of Hong Kong (HKU)
+          company_url: 'https://www.cs.hku.hk/'
+          company_logo: hku_logo
+          location: Hong Kong, China
+          date_start: '2024-02-01'
+          date_end: '2024-05-01'
+          description: Working under the supervision of Prof. Difan Zou on multi-agent planning and improving LLM agents’ problem-solving abilities.
         - title: Visiting Student in KAUST (IVUL, Advisor PhD Guohao Li, Prof. Bernard Ghanem)
           company:  Image and Video Understanding Lab
           company_url: 'https://cemse.kaust.edu.sa/ivul'
@@ -83,16 +99,16 @@ sections:
           location: Thuwal, Saudi Arabia
           date_start: '2023-07-01'
           date_end: '2024-01-30'
-          description: Working on the [Camel](https://github.com/camel-ai) project, probing agent trust behavior. The paper titled "Can Large Language Models Simulate Human Trust Behaviors?" has been produced.
-        - title: Researcher in Photoelectric Imaging and Brain-like Perception Lab(Adivsor Weisheng Dong)
-          company: Photoelectric Imaging and Brain-like Perception Lab
-          company_url: 'https://see.xidian.edu.cn/faculty/wsdong/'
-          company_logo: xidian
-          location: Xian China
-          date_start: '2022-11-01'
-          date_end: '2023-05-01'
-          description: Focusing on the face restoration task, research results have been published in CVPRW (MULA).
-        - title: Algorithm Intern
+          description: Working on the [Camel](https://github.com/camel-ai) project, probing agent trust behavior. The paper titled "Can Large Language Models Simulate Human Trust Behaviors?" has been accepted in **NeurIPS 2024**.
+        # - title: Researcher in Photoelectric Imaging and Brain-like Perception Lab(Adivsor Weisheng Dong)
+        #   company: Photoelectric Imaging and Brain-like Perception Lab
+        #   company_url: 'https://see.xidian.edu.cn/faculty/wsdong/'
+        #   company_logo: xidian
+        #   location: Xian China
+        #   date_start: '2022-11-01'
+        #   date_end: '2023-05-01'
+        #   description: Focusing on the face restoration task, research results have been published in CVPRW (MULA).
+        - title: Research Intern
           company: Sensetime
           company_url: 'https://www.sensetime.com/en'
           company_logo: sensetime
@@ -100,11 +116,6 @@ sections:
           date_start: '2022-02-08'
           date_end: '2022-11-11'
           mentor: Qigong Sun
-          description: |2-
-              Responsibilities include:
-
-              * developing
-              * Modelling
         - title: Undergraduate of Xidian University
           company: Xidian University
           company_url: 'https://en.xidian.edu.cn/'
@@ -112,49 +123,49 @@ sections:
           location: Xian China
           date_start: '2021-09-01'
           date_end: '2025-06-30'
-          description: Computer Science Undergraduate Student (AI Researcher)
+          description: Computer Science Undergraduate Student
     design:
       columns: '2'
-  - block: accomplishments
-    id: learn
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: Learning Courses
-      subtitle:
-      # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - 
-          date_end: '2021-10-11'
-          date_start: '2021-09-01'
-          description: 'A preliminary understanding of Computer graphics'
-          organization: UCSB
-          organization_url: https://www.ucsb.edu/
-          title: UCSB Game 101 Introduction to Modern Computer Graphics
-          url: 'https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html'
-        - 
-          date_end: '2021-11-01'
-          date_start: '2021-10-01'
-          description: Learning Lower-Level Vision
-          organization: Standford
-          organization_url: https://www.stanford.edu/
-          title: Stanford CS236 Deep Generative Models
-          url: https://deepgenerativemodels.github.io/
-        - 
-          date_end: '2021-10-21'
-          date_start: '2020-09-01'
-          description: 'Getting Started with Deep Learning'
-          organization: Stanford Univercity
-          organization_url: https://www.stanford.edu/
-          title: 'CS231n: Deep Learning for Computer Vision'
-          url: 'http://cs231n.stanford.edu/'
-    design:
-      columns: '2'
+  # - block: accomplishments
+  #   id: learn
+  #   content:
+  #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+  #     title: Learning Courses
+  #     subtitle:
+  #     # Date format: https://wowchemy.com/docs/customization/#date-format
+  #     date_format: Jan 2006
+  #     # Accomplishments.
+  #     #   Add/remove as many `item` blocks below as you like.
+  #     #   `title`, `organization`, and `date_start` are the required parameters.
+  #     #   Leave other parameters empty if not required.
+  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+  #     items:
+  #       - 
+  #         date_end: '2021-10-11'
+  #         date_start: '2021-09-01'
+  #         description: 'A preliminary understanding of Computer graphics'
+  #         organization: UCSB
+  #         organization_url: https://www.ucsb.edu/
+  #         title: UCSB Game 101 Introduction to Modern Computer Graphics
+  #         url: 'https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html'
+  #       - 
+  #         date_end: '2021-11-01'
+  #         date_start: '2021-10-01'
+  #         description: Learning Lower-Level Vision
+  #         organization: Standford
+  #         organization_url: https://www.stanford.edu/
+  #         title: Stanford CS236 Deep Generative Models
+  #         url: https://deepgenerativemodels.github.io/
+  #       - 
+  #         date_end: '2021-10-21'
+  #         date_start: '2020-09-01'
+  #         description: 'Getting Started with Deep Learning'
+  #         organization: Stanford Univercity
+  #         organization_url: https://www.stanford.edu/
+  #         title: 'CS231n: Deep Learning for Computer Vision'
+  #         url: 'http://cs231n.stanford.edu/'
+  #   design:
+  #     columns: '2'
   # - block: collection
   #   id: posts
   #   content:
