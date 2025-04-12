@@ -37,8 +37,9 @@ extracted textual features are used to modulate the decoding features to obtain 
 # Summary. An optional shortened abstract.
 
 tags:
-- Source Themes
-featured: false
+- Large Language Models
+
+featured: true
 
 links:
 # - name: Custom Link
